@@ -81,8 +81,7 @@ This project fulfills all major project requirements:
 ---
 
 ## Status
-🚧 Actively under development  
-📅 Daily commits enforced  
+🚧 Actively under development
 
 ---
 
