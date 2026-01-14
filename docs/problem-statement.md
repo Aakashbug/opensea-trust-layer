@@ -1,4 +1,4 @@
-# Problem Statement  
+# Problem Statement
 ## OpenSea Trust Layer – AI-Powered Web3 Reputation System
 
 ---
